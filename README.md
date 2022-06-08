@@ -1,0 +1,1 @@
+# -Local-Minimization-of-Motor-Torques-on-Robots-with-Elastic-Joints-using-Null-Space-methods
