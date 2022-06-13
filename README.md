@@ -12,3 +12,7 @@ Step 1: Run File_main_lineare_multiline.m
 This file starts automatically the simulink model simulation and saves the data. The following step is necessary in order to visualize the actual robot motion.
 
 Step 2: Run animation_linear_multiline.m
+
+
+https://user-images.githubusercontent.com/100837287/173346341-3067e4a0-7b4b-4c55-a015-7c65dcf40818.mp4
+
