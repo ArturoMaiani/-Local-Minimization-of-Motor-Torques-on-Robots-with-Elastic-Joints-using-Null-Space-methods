@@ -18,7 +18,7 @@ The same procedure applies for all folders:
 
 -Save the three files in the same matlab folder
 
--Run the file named: File_main_(...).m
+-Run the file named: File_main_(...).m \n
 This file starts automatically the simulink model simulation and saves the data. The following step is necessary in order to visualize the actual robot motion.
 
 
