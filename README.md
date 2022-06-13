@@ -21,7 +21,16 @@ The same procedure applies for all folders:
 
 -Run the file named: File_main_(...).m 
 
-## -Videos for
+## -Best performances for each trajectory
+
+Such trajectories are obtained thanks to the minimization of the norm of the torque vector, weighted by the square of the inverse of the inertia matrix. 
 
 https://user-images.githubusercontent.com/100837287/173346341-3067e4a0-7b4b-4c55-a015-7c65dcf40818.mp4
+
+
+https://user-images.githubusercontent.com/100837287/173352680-fd8cd8c6-e70e-4827-94ae-0d5d75210a4a.mp4
+
+
+https://user-images.githubusercontent.com/100837287/173352840-d78f3dbc-30f9-4663-9fe6-1b5fbe8a5a86.mp4
+
 
