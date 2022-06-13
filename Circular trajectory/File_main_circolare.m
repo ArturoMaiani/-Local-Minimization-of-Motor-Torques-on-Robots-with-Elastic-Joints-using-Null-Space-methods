@@ -20,6 +20,6 @@ animation_circular
 
 
 % STROBOSCOPIC VIEW
-% figure
+figure
 % 
-%stroboscopio_circular
+stroboscopio_circular
